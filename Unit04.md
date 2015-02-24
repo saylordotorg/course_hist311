@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Empires and Slaving** <span id="4"></span> 
 *In the latter 18<sup>th</sup> century, proponents of the Atlantic slave
 trade defended the commerce by arguing that slavery and the slave trade

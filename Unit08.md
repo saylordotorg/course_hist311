@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation’s “HIST311 Final Exam”**
     Link: The Saylor Foundation’s [“HIST311 Final

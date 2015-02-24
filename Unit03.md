@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Early Slaving Voyages** <span id="3"></span> 
 *The earliest European slaving voyages began in the first part of the
 16<sup>th</sup> century. Spanish and Portuguese traders purchased slaves

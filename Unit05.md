@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: New World Slave Societies** <span id="5"></span> 
 
 *New World slave societies were highly varied colonial outposts of

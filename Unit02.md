@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Enslavement of Africans** <span id="2"></span> 
 *Beginning in the 16<sup>th</sup> century, Africans were brought to the
 Americas to serve as enslaved laborers on plantations and in mines.

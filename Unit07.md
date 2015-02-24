@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Abolition** <span id="7"></span> 
 *That the Atlantic slave trade would end was never a given. However, a
 number of forces in the late 1700s and early 1800s paved the way for the

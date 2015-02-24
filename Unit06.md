@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST311: The Age of the Atlantic Slave Trade, 1500-1900"
+course_description: "An introduction to the history of the Atlantic slave trade from the 16th to the 20th century. Analyzes its causes as well as its long lasting effects on Africa, Europe, and the Americas."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Middle Passage** <span id="6"></span> 
 *Over 30,000 slaving voyages brought Africans to the Americas. These
 captive Africans reached the New World through what is called the*
