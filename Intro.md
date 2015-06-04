@@ -146,3 +146,13 @@ comprehensive notes. Write down any dates, events, names, definitions,
 and other historical concepts that stand out to you. These notes will be
 useful as you study and prepare for your final exam.  
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/hist311/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist311/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist311/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist311/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist311/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist311/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist311/Unit07/)
+- [Unit 8](https://legacy.saylor.org/hist311/Unit08/)
