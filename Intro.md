@@ -166,3 +166,4 @@ useful as you study and prepare for your final exam.
 - [Unit 6](https://legacy.saylor.org/hist311/Unit06/)
 - [Unit 7](https://legacy.saylor.org/hist311/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist311/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST311/HIST311-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST311/HIST311-FinalExam-Answers.html)
