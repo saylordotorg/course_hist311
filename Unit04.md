@@ -99,12 +99,12 @@ Upon successful completion of this unit, you will be able to:
     Slavery” 1774**
 
     Link: United Methodist Women: John Wesley’s [“Thoughts upon
-    Slavery”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-4.1-Thoughts-Upon-Slavery.pdf)
+    Slavery”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-4.1-Thoughts-Upon-Slavery.pdf)
     (PDF)  
       
      Also available in:  
 
-    [iBook](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-4.1-Thoughts-Upon-Slavery-John-Wesley.epub)  
+    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-4.1-Thoughts-Upon-Slavery-John-Wesley.epub)  
         
      Instructions: John Wesley (1703–1791) was a Church of England
     priest and a Christian theologian who was opposed to slavery. In
@@ -199,7 +199,7 @@ Upon successful completion of this unit, you will be able to:
     Olaudah Equiano’s “Life of Gustavus Vassa”**
     Link: Fordham University’s *Internet *Modern History Sourcebook**:
     Olaudah Equiano’s [“Life of Gustavus
-    Vassa”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-4.3-Life-of-Gustavus-Vassa1.pdf)
+    Vassa”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-4.3-Life-of-Gustavus-Vassa1.pdf)
     (PDF)  
         
      Instructions: Read this text. Olaudah Equiano, also known as

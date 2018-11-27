@@ -79,7 +79,7 @@ computer;
  √    be competent in the English language;  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed all courses listed in [“The Core
@@ -98,9 +98,9 @@ materials:
 
 -   Smithsonian Institution: “On the Water: Living in the Atlantic
     World, 1450–1800”: [“Web of
-    Connections”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-1.2.2-Web-of-Connections.pdf)
+    Connections”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-1.2.2-Web-of-Connections.pdf)
     and [“New Tastes, New
-    Trades”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-1.2.3-On-the-Water.pdf)
+    Trades”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-1.2.3-On-the-Water.pdf)
 -   Connexions: Dr. James Ross-Nazzal and David White’s [“Chapter 4:
     Slavery and Empire
     (1441–1770)”](http://cnx.org/content/m43292/latest/)
@@ -110,12 +110,12 @@ materials:
     Trade”](http://en.wikipedia.org/wiki/Atlantic_slave_trade)
 -   Anti-Slavery International’s Breaking the Silence Project: “Slave
     Routes”:
-    [“Spain,”](http://www.saylor.org/site/wp-content/uploads/2011/04/Spain.pdf)
-    [“Portugal,”](http://www.saylor.org/site/wp-content/uploads/2011/04/Portugal.pdf)
+    [“Spain,”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Spain.pdf)
+    [“Portugal,”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Portugal.pdf)
     [“The
-    Netherlands,”](http://www.saylor.org/site/wp-content/uploads/2011/04/Netherlands.pdf)
+    Netherlands,”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Netherlands.pdf)
     [“United
-    Kingdom,”](http://www.saylor.org/site/wp-content/uploads/2011/04/United-Kingdom.pdf)
+    Kingdom,”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/United-Kingdom.pdf)
     [“Americas and the
     Caribbean,”](http://old.antislavery.org/breakingthesilence/slave_routes/slave_routes_Caribbean.shtml)
     and [“Dominican

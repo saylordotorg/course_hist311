@@ -113,7 +113,7 @@ Upon successful completion of this unit, you will be able to:
     American South*: Boyrereau Brinch’s and Benjamin F. Prentiss’s
     (Benjamin Franklin’s) [“The Blind African Slave, or Memoirs of
     Boyrereau Brinch, Nick-named Jeffrey
-    Brace”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-6.1.4-The-Blind-African-Slave.pdf)
+    Brace”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-6.1.4-The-Blind-African-Slave.pdf)
     (PDF)  
         
      Instructions: Read the “Introduction” and “Chapters 1–4” on pages
@@ -305,7 +305,7 @@ subunit 5.2.1.*
 **6.3.2 Perceptions of Slave Marts** <span id="6.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Perceptions of Slave Marts”**
     Link: The Saylor Foundation’s [“Perceptions of Slave
-    Marts”](http://www.saylor.org/site/wp-content/uploads/2013/03/HIST311-6.3.2-Perceptions-of-Slave-Marts.pdf)
+    Marts”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/HIST311-6.3.2-Perceptions-of-Slave-Marts.pdf)
     (PDF)  
         
      Instructions: Read this brief text. As you read, consider the
