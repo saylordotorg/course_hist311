@@ -63,7 +63,7 @@ id="5.1.1"></span> 
     Link: George Mason University’s *History Matters*: [“‘They That Are
     Born There Talk Good English’: Hugh Jones Describes Virginia’s Slave
     Society,
-    1724”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-5.1.1-They-That-Are-Born-There-Talk-Good-English.pdf)
+    1724”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-5.1.1-They-That-Are-Born-There-Talk-Good-English.pdf)
     (PDF)  
         
      Instructions: Read this selection. In this document, Hugh Jones
@@ -172,7 +172,7 @@ id="5.1.2"></span> 
 
     Link: Sandra W. Meditz and Dennis M. Hanratty (eds.)’s *Caribbean
     Islands: A Country Study*: [“The Sugar Revolutions and
-    Slavery”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST-311-5.2.1-The-Sugar-Revolutions.pdf)
+    Slavery”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST-311-5.2.1-The-Sugar-Revolutions.pdf)
     (PDF)  
         
      Instructions: Read the article to get a sense of how the sugar
@@ -194,7 +194,7 @@ id="5.1.2"></span> 
     Trans-Atlantic Slave Trade”**
     Link: Emory University: David Eltis’s [“A Brief Overview of the
     Trans-Atlantic Slave
-    Trade”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST211-1.3.3-TransAtlanticSlaveTrade.pdf) (PDF)  
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST211-1.3.3-TransAtlanticSlaveTrade.pdf) (PDF)  
       
      Instructions: This article provides a general history of the
     African slave trade.  
@@ -212,7 +212,7 @@ id="5.1.2"></span> 
     the Trans-Atlantic Slave Trade”**
     Link: Emory University: Stephen D. Behrendt’s [“Seasonality in the
     Trans-Atlantic Slave
-    Trade”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST211-1.3.3-SeasonalityintheTransAtlanticSlaveTrade.pdf) (PDF)   
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST211-1.3.3-SeasonalityintheTransAtlanticSlaveTrade.pdf) (PDF)   
       
      Instructions: This article examines the trade patterns and exchange
     systems of the African slave trade.  
@@ -302,7 +302,7 @@ id="5.1.2"></span> 
     Mexico”**
 
     Link: National Humanities Center’s [“Enslaved Africans in
-    Mexico”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-5.3.2-Enslaved-Africans-in-Mexico.pdf)
+    Mexico”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-5.3.2-Enslaved-Africans-in-Mexico.pdf)
     (PDF)  
         
      Instructions: Read the introductory information and the primary
@@ -351,7 +351,7 @@ id="5.1.2"></span> 
 
     Link: Country Studies US: Rex A. Hudson’s (ed.) *Brazil: A Country
     Study:* [“Gold Mining Displaces Cane
-    Farming”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST311-5.4.1-Gold-Mining-Displaces-Cane-Farming.pdf)
+    Farming”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-5.4.1-Gold-Mining-Displaces-Cane-Farming.pdf)
     (PDF)  
         
      Instructions: Read this section for information on how the
