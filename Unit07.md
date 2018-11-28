@@ -64,7 +64,7 @@ Upon successful completion of this unit, you will be able to:
 **7.1 Resistance and Abolition** <span id="7.1"></span> 
 -   **Reading: The Saylor Foundation’s “Resistance and Abolition”**
     Link: The Saylor Foundation’s [“Resistance and
-    Abolition”](http://www.saylor.org/site/wp-content/uploads/2013/03/HIST311-7.1-Resistance-and-Abolition.pdf)
+    Abolition”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/HIST311-7.1-Resistance-and-Abolition.pdf)
     (PDF)  
         
      Read this article. Consider these questions as you read: in what
@@ -123,7 +123,7 @@ Upon successful completion of this unit, you will be able to:
     Slavery”**
 
     Link: University of Groningen: Thomas Jefferson’s [“On
-    Slavery”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-7.1.2-Thomas-Jefferson.pdf)
+    Slavery”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-7.1.2-Thomas-Jefferson.pdf)
     (PDF)  
         
      Instructions: Read this text. Thomas Jefferson opposed slavery, but
@@ -143,7 +143,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Fordham University’s *Internet Modern History Sourcebook*:
     [“Slaves’ Appeal to Thomas Gage, Royal Governor of Massachusetts,
     May 25,
-    1774”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-7.1.2-Slaves-Appeal.pdf)
+    1774”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-7.1.2-Slaves-Appeal.pdf)
     (PDF)  
         
      Instructions: Read this text. In this reading, a group of slaves
@@ -225,7 +225,7 @@ Upon successful completion of this unit, you will be able to:
 **7.1.3 Commemorating 1808** <span id="7.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Commemorating 1808”**
     Link: The Saylor Foundation’s [“Commemorating
-    1808”](http://www.saylor.org/site/wp-content/uploads/2013/03/HIST311-7.1.2-Commemorating-1808.pdf)
+    1808”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/HIST311-7.1.2-Commemorating-1808.pdf)
     (PDF)  
         
      Read this article. Consider these questions as you read: which
@@ -239,7 +239,7 @@ Upon successful completion of this unit, you will be able to:
 **7.2.1 Illegal Slave Trade** <span id="7.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Illegal Slave Trade”**
     Link: The Saylor Foundation’s [“Illegal Slave
-    Trade”](http://www.saylor.org/site/wp-content/uploads/2013/03/HIST311-7.2.1-Illegal-Slave-Trade.pdf)
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/HIST311-7.2.1-Illegal-Slave-Trade.pdf)
     (PDF)  
         
      Read this article. Consider these questions as you read: in what
@@ -263,7 +263,7 @@ Upon successful completion of this unit, you will be able to:
 
     Link: Fordham University’s *Internet Modern History Sourcebook*:
     Frederick Douglass’ [“The Hypocrisy of American Slavery, July 4,
-    1852”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-7.2.2-Frederick-Douglas.pdf)
+    1852”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-7.2.2-Frederick-Douglas.pdf)
     (PDF)  
         
      Instructions: Read this text. In this address, Frederick Douglass
@@ -325,7 +325,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The Saylor Foundation’s “Suppression of the Atlantic
     Slave Trade”**
     Link: The Saylor Foundation’s [“Suppression of the Atlantic Slave
-    Trade”](http://www.saylor.org/site/wp-content/uploads/2013/03/HIST311-7.2.3-Suppression-of-the-Atlantic-Slave-Trade.pdf)
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/HIST311-7.2.3-Suppression-of-the-Atlantic-Slave-Trade.pdf)
     (PDF)  
         
      Read this article. Consider these questions as you read: what
@@ -534,7 +534,7 @@ Upon successful completion of this unit, you will be able to:
     Slavery’ Debate”**
 
     Link: Carnegie Council: [“Special Report: ‘Reparations for Slavery’
-    Debate”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-7.4.2-Special-Report-%E2%80%9CReparations-for-Slavery%E2%80%9D-Debate.pdf)
+    Debate”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-7.4.2-Special-Report-%E2%80%9CReparations-for-Slavery%E2%80%9D-Debate.pdf)
     (PDF)  
         
      Instructions: Read the article to get an introductory view of the

@@ -69,7 +69,7 @@ id="2.1.1"></span> 
     Atlantic World, 1492–1600: “The Columbian Exchange”**
     Link: The Saylor Foundation: Concepcion Saenz-Cambra’s *The Atlantic
     World, 1492–1600*: [“The Columbian
-    Exchange”](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)
+    Exchange”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)
     (PDF)  
         
      Instructions: Download the PDF, and read the section titled “The
@@ -360,7 +360,7 @@ id="2.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Creation of the African
     Diaspora”**
     Link: The Saylor Foundation’s [“Creation of the African
-    Diaspora”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST311-2.2.3-Creation-of-the-African-Diaspora.pdf)
+    Diaspora”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST311-2.2.3-Creation-of-the-African-Diaspora.pdf)
     (PDF)  
         
      Instructions: Read the brief text. As you read, consider the

@@ -70,7 +70,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Nativeweb: Pope Nicholas V’s “Romanus Pontifex”**
 
     Link: Nativeweb: Pope Nicholas V’s [“Romanus
-    Pontifex”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-3.1-The-Bull-Romanus-Pontifex.pdf)
+    Pontifex”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-3.1-The-Bull-Romanus-Pontifex.pdf)
     (PDF)  
         
      Instructions: Read this text, paying special attention to the third
@@ -95,7 +95,7 @@ America” in subunit 5.3.1.*
 -   **Reading: The Saylor Foundation’s “The Making of the Atlantic
     World”**
     Link: The Saylor Foundation’s [“The Making of the Atlantic
-    World”](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-6.1-TheMakingoftheAtlanticWorld-FINAL.pdf)
+    World”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST251-6.1-TheMakingoftheAtlanticWorld-FINAL.pdf)
     (PDF)  
 
       
@@ -118,9 +118,9 @@ America” in subunit 5.3.1.*
     Routes: “Spain” and “Portugal”**
     Link: Anti-Slavery International’s *Breaking the Silence*: [“Slave
     Routes:
-    Spain”](http://www.saylor.org/site/wp-content/uploads/2011/04/Spain.pdf)
+    Spain”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Spain.pdf)
     (PDF) and [“Slave Routes:
-    Portugal”](http://www.saylor.org/site/wp-content/uploads/2011/04/Portugal.pdf)
+    Portugal”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Portugal.pdf)
     (PDF)  
         
      Instructions: Read both articles, which will offer you a brief but
@@ -144,7 +144,7 @@ America” in subunit 5.3.1.*
 
     Link: HistoryScoop: Fray Tomas de Mercado’s [“A Critique of the
     Slave
-    Trade”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-3.1.3-A-Spanish-Priests-Critique-of-the-Slave-Trade.pdf)
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-3.1.3-A-Spanish-Priests-Critique-of-the-Slave-Trade.pdf)
     (PDF)  
         
      Instructions: Read this excerpt, and answer the questions provided.
@@ -169,7 +169,7 @@ America” in subunit 5.3.1.*
     Routes: The Netherlands”**
     Link: Anti-Slavery International’s *Breaking the Silence*: [“Slave
     Routes: The
-    Netherlands”](http://www.saylor.org/site/wp-content/uploads/2011/04/Netherlands.pdf)
+    Netherlands”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Netherlands.pdf)
     (PDF)  
         
      Instructions: Read this article to get a sense of Holland’s
@@ -213,14 +213,14 @@ Netherlands” assigned below subunit 3.2.1.*
     “Adventurers and Slavers”**
 
     Link: The National Archives: [“Britain and the
-    Trade”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-3.3.1-Britain-and-the-Trade.pdf)
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-3.3.1-Britain-and-the-Trade.pdf)
     (PDF) and [“Adventurers and
-    Slavers”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-3.3.1-Adventurers-and-Slavers.pdf)
+    Slavers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-3.3.1-Adventurers-and-Slavers.pdf)
     (PDF)  
       
      Britain and the Trade also available in:[  
 
-    iBook](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-3.3.1-Britain-and-the-Trade-The-National-Archives.epub)  
+    iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-3.3.1-Britain-and-the-Trade-The-National-Archives.epub)  
         
      Instructions: Read this article, which includes transcripts of
     primary source documents. This material will give you a good
@@ -244,7 +244,7 @@ Netherlands” assigned below subunit 3.2.1.*
     Routes: United Kingdom”**
     Link: Anti-Slavery International’s *Breaking the Silence*: [“Slave
     Routes: United
-    Kingdom”](http://www.saylor.org/site/wp-content/uploads/2011/04/United-Kingdom.pdf)
+    Kingdom”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/United-Kingdom.pdf)
     (PDF)  
         
      Instructions: Read the article to get an overview of the

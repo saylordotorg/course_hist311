@@ -230,14 +230,14 @@ Upon successful completion of this unit, you will be able to:
     Accounts, 1680-1806”**
     Link: Smithsonian Institution: *On the Water: Living in the Atlantic
     World, 1450–1800*: [“Web of
-    Connections”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-1.2.2-Web-of-Connections.pdf)
+    Connections”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-1.2.2-Web-of-Connections.pdf)
     (PDF) and [“Narrative Accounts,
-    1680-1806”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST311-1.2.2-Narrative-Accounts.pdf)
+    1680-1806”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST311-1.2.2-Narrative-Accounts.pdf)
     (PDF)  
       
      Also available in:  
 
-    [iBook](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-1.2.2-Web-of-Connections-Smithsonian.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-1.2.2-Web-of-Connections-Smithsonian.epub)  
       
      Instructions: First, read the introductory paragraph of “Web of
     Connections”; afterwords examine the ships listed and read each
@@ -265,12 +265,12 @@ Upon successful completion of this unit, you will be able to:
 
     Link: The Smithsonian Institute: *On the Water: Living in the
     Atlantic World, 1450–1800*: [“New Tastes, New
-    Trades”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-1.2.3-On-the-Water.pdf)
+    Trades”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-1.2.3-On-the-Water.pdf)
     (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST311-1.2.3-On-the-Water-Smithsonian.epub)  
+    [iBooks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST311-1.2.3-On-the-Water-Smithsonian.epub)  
         
      Instructions: Examine each of the objects listed and read their
     descriptions; you will get a good sense of the goods and people who
